@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Arpitajena8/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Arpitajena8/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Arpitajena8/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0054-spiral-matrix](https://github.com/Arpitajena8/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Arpitajena8/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Arpitajena8/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0213-house-robber-ii](https://github.com/Arpitajena8/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -43,4 +44,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Arpitajena8/Leetcode/tree/main/0055-jump-game/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Arpitajena8/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Arpitajena8/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
