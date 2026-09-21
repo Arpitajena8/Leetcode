@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Arpitajena8/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Arpitajena8/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Arpitajena8/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpitajena8/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0213-house-robber-ii](https://github.com/Arpitajena8/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -58,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Arpitajena8/Leetcode/tree/main/0048-rotate-image/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpitajena8/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
